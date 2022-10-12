@@ -35,10 +35,10 @@
 ## Landscape
 
 * What domain of the financial industry is the company in?
-Blockchain and Cryptocurrencies
+- Blockchain and Cryptocurrencies
 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
-NFTs are introducing more use cases for blockchain, Entering the metaverse, Blockchain goes renewable, Smart contracts are fostering blockchain adoption
+- NFTs are introducing more use cases for blockchain, Entering the metaverse, Blockchain goes renewable, Smart contracts are fostering blockchain adoption
 
 * What are the other major companies in this domain?
 Kraken, Binance, Robinhood, Crypto.com, FTX, etoro
@@ -46,18 +46,19 @@ Kraken, Binance, Robinhood, Crypto.com, FTX, etoro
 ## Results
 
 * What has been the business impact of this company so far?
-
+- Coinbase has allowed crypto coins to jump onto their exchange and receive their "coinbase effect" a theory that has been fabricated by the crypto community which states "get listed on Coinbase, and your price will skyrocket."
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
+- Some core metrics that companies in this domain use to meausre their success is the amount of transactions happening on their exchange. In the crypto world 47% of crypto traders choose Coinbase to buy and trade their assets, therefore I would say coinbase is the leading exchange.
 * How is your company performing relative to competitors in the same domain?
 - Company has been thriving alongside its competitors but has seemed to have a better grasp on crypto noobies than any of its competitors.
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
+- I would advise for them to list more tokens on their exchange.
 * Why do you think that offering this product or service would benefit the company?
-
+- I believe that by offering a vast variety of tokens on coinbase more users will stick to that exchange rather than going to another exchange to trade a certain token
 * What technologies would this additional product or service utilize?
-
+- This service would utilize blockchain and cryptocurrency technologies.
 * Why are these technologies appropriate for your solution?
+- These technologies are appropriate because they are the technologies needed to buy and sell crypto.
