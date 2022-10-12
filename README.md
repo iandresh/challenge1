@@ -35,13 +35,13 @@
 ## Landscape
 
 * What domain of the financial industry is the company in?
-- Blockchain and Cryptocurrencies
+Blockchain and Cryptocurrencies
 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
-- NFTs are introducing more use cases for blockchain, Entering the metaverse, Blockchain goes renewable, Smart contracts are fostering blockchain adoption
+NFTs are introducing more use cases for blockchain, Entering the metaverse, Blockchain goes renewable, Smart contracts are fostering blockchain adoption
 
 * What are the other major companies in this domain?
-- Kraken, Binance, Robinhood, Crypto.com, FTX, etoro
+Kraken, Binance, Robinhood, Crypto.com, FTX, etoro
 
 ## Results
 
